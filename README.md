@@ -2,6 +2,8 @@
 
 make a carousel mannually
 
+<img src="https://github.com/hossamhasanin/image_carousel/blob/master/app.gif" width="35%" height="35%"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
